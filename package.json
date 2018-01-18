@@ -1,0 +1,9 @@
+{
+  "name": "simple-arq-webpack",
+  "version": "1.0.0",
+  "description": "Arquetipo para web simple en html, js y sass usando webpack",
+  "main": "index.js",
+  "repository": "https://github.com/juramirezp/simple-arq-webpack.git",
+  "author": "Juan Ramirez",
+  "license": "MIT"
+}
